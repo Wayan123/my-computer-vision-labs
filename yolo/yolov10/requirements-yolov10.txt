@@ -1,2 +1,5 @@
 supervision
 git+https://github.com/THU-MIG/yolov10.git
+opencv-python
+numpy
+matplotlib==3.8.4
